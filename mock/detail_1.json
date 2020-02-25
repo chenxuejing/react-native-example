@@ -1,0 +1,37 @@
+{
+	"msg": "0",
+	"ret": 0,
+	"data": {
+		"albumDetail": {
+			"albumId": 210420,
+			"albumType": 0,
+			"albumUid": 10805155,
+			"coverPath": "http://imagev2.xmcdn.com/group45/M07/BF/55/wKgKjluR6IvCdUbPAADZZuT8Cyk381.png",
+			"createAt": "2017-11-13",
+			"hasFreeTrack": false,
+			"isAuthorized": true,
+			"isClass": false,
+			"isDeleted": false,
+			"isFinished": 1,
+			"isRead": false,
+			"isSubscibe": false,
+			"isTryout": false,
+			"playCount": 500519,
+			"richIntro": "中国图书评论学会推荐2015年度十大好书，2015年百道网中国好书榜TOP100，著名作家谷清平笔下的汤小团是个调皮捣蛋的小男生，一天傍晚，他误入一家神秘的古董书店，从此有了进入书中的能力，开启了神奇的历史冒险大门。他的故事捧腹爆笑、流泪感动、头脑风暴、科普历史，你能想象到的精彩，这里都有。 \n\n\n充满好奇心的孩子； \n 喜欢冒险的大小朋友们。 \n\n\n\n动画片般的讲述和制作，充分满足孩子的好奇心和冒险精神； \n让孩子冒险的同时自然而然地得到丰富的历史知识，在各种迷宫、密码、探险中享受一场又一场头脑风暴。",
+			"shortIntro": "和汤小团一起，亲身经历神奇的中国历史漫游",
+			"status": 1,
+			"subscriptionCount": 5809,
+			"tagList": [{
+				"name": "国学历史",
+				"tagId": 12470
+			}, {
+				"name": "开阔眼界",
+				"tagId": 12455
+			}],
+			"title": "汤小团之东周列国卷",
+			"trackCount": 189,
+			"vipType": 0
+		},
+		"type": 0
+	}
+}

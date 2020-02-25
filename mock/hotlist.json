@@ -1,0 +1,37 @@
+{
+	"msg": "0",
+	"ret": 0,
+	"data": {
+		"hotWordList": [{
+			"hotLevel": 1,
+			"hotWord": "新型冠状病毒"
+		}, {
+			"hotLevel": 2,
+			"hotWord": "西游记"
+		}, {
+			"hotLevel": 3,
+			"hotWord": "米小圈"
+		}, {
+			"hotLevel": 4,
+			"hotWord": "小猪佩奇"
+		}, {
+			"hotLevel": 5,
+			"hotWord": "奥特曼"
+		}, {
+			"hotLevel": 6,
+			"hotWord": "超级飞侠"
+		}, {
+			"hotLevel": 7,
+			"hotWord": "我的世界"
+		}, {
+			"hotLevel": 8,
+			"hotWord": "睡前故事"
+		}, {
+			"hotLevel": 9,
+			"hotWord": "宝宝巴士"
+		}, {
+			"hotLevel": 10,
+			"hotWord": "海底小纵队"
+		}]
+	}
+}

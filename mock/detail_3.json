@@ -1,0 +1,37 @@
+{
+	"msg": "0",
+	"ret": 0,
+	"data": {
+		"albumDetail": {
+			"albumId": 210052,
+			"albumType": 0,
+			"albumUid": 64168164,
+			"coverPath": "http://imagev2.xmcdn.com/group48/M01/06/D6/wKgKlVtrnQShI1SyAACWhecDxCo806.png",
+			"createAt": "2016-11-14",
+			"hasFreeTrack": false,
+			"isAuthorized": true,
+			"isClass": false,
+			"isDeleted": false,
+			"isFinished": 1,
+			"isRead": false,
+			"isSubscibe": false,
+			"isTryout": false,
+			"playCount": 510795,
+			"richIntro": "声音清甜的女主播带大家进入童话的世界。整个专辑以动物故事童话故事为主，用情境扮演的形式讲述故事。糖粥粥姐姐声音动听，讲述生动，让故事变成了可以听的动画片～\n\n0-6岁需要哄睡的孩子 。\n\n\n抚平孩子情绪，在故事中获得夜夜好梦；\n丰富孩子想象力，养成良好习惯。",
+			"shortIntro": "告诉孩子世界的奥秘",
+			"status": 1,
+			"subscriptionCount": 2222,
+			"tagList": [{
+				"name": "绘本故事",
+				"tagId": 12471
+			}, {
+				"name": "哄睡",
+				"tagId": 12466
+			}],
+			"title": "糖粥粥姐姐 | 睡前故事",
+			"trackCount": 1060,
+			"vipType": 0
+		},
+		"type": 0
+	}
+}
